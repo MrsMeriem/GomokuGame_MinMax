@@ -57,5 +57,5 @@ Les scripts CMake (comme FindSDL2.cmake) aident à localiser ces en-têtes et bi
 quel que soit le système d'exploitation ou l'emplacement d'installation.   
 
 ## À propos du jeu   
-- Si le jeu est trop lent, changez MAX_DEPTH pour ajuster la profondeur maximale de l'algorithme de recherche définie par défaut à 3 dans MinMax.h
+- Si le jeu est lent, changez MAX_DEPTH pour ajuster la profondeur maximale de l'algorithme de recherche définie par défaut à 3 dans MinMax.h
 
