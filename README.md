@@ -10,8 +10,7 @@ la bibliothèque SDL.
 ## Algorithmes Utilisées
 - Algorithme Minimax(cette version de projet)  
 - Optimisation de Minimax avec Alpha-Beta Pruning via le lien :  
-
-
+https://github.com/MrsMeriem/GomokuGame_MinMax_AlphaBeta.git  
 
 
 ## Technologies Utilisées
