@@ -14,7 +14,8 @@ la bibliothèque SDL.
 ## Technologies Utilisées  
 - Langages de Programmation : C   
 - Bibliothèque Graphique : SDL   
-- IDE : Visual Studio   
+- IDE : Visual Studio
+- WSL
 
 
 ## Membres:  
