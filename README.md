@@ -7,7 +7,7 @@ algorithmes avancés pour déterminer les coups optimaux. Nous avons utilisé le
 Minimax et Alpha-Beta,et le projet inclut une interface graphique développée en C avec 
 la bibliothèque SDL.
 
-## algorithmes Utilisées
+## Algorithmes Utilisées
 - Algorithme Minimax(cette version de projet)  
 - Optimisation de Minimax avec Alpha-Beta Pruning via le lien :  
 
